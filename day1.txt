@@ -1,0 +1,6 @@
+1)man
+2)ls
+3)pwd
+4)cd
+5)mkdir
+6)rm dir
